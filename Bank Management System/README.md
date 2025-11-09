@@ -31,12 +31,12 @@ This project allows users to perform basic banking operations such as depositing
 
 2. Choose from the menu:
 
--- Press 1 to deposit money.
+- - Press 1 to deposit money.
 
--- Press 2 to withdraw money.
+- - Press 2 to withdraw money.
 
--- Press 3 to check your balance.
+- - Press 3 to check your balance.
 
--- Press 4 to exit the program.
+- - Press 4 to exit the program.
 
 3. Follow on-screen prompts to perform actions.
