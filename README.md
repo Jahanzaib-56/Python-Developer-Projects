@@ -1,12 +1,12 @@
-# 🐍 PyVault — Core Python Projects
+# 🐍 Python-Developer-Projects
 
-A curated collection of **core Python projects** covering fundamental to intermediate concepts — built as a companion repository to my primary AI/ML/DL work. Each project is self-contained, well-commented, and written with clarity in mind.
+A curated collection of **core Python projects** covering fundamental to intermediate concepts built as a companion repository to my primary AI/ML/DL work. Each project is self-contained, well-commented, and written with clarity in mind.
 
 ---
 
 ## 📌 About This Repository
 
-**PyVault** is a focused space for **pure Python** development — no ML frameworks, no neural networks. Instead, it explores the language itself: how to write clean, structured, and idiomatic Python across a variety of practical domains.
+It is a focused space for **pure Python** development, no ML frameworks, no neural networks. Instead, it explores the language itself: how to write clean, structured, and idiomatic Python across a variety of practical domains.
 
 Whether you're a **beginner** taking your first steps with Python, an **intermediate developer** revisiting the fundamentals, a professional maintaining a **personal reference**, or an **open-source contributor** looking to collaborate — there's something here for you.
 
@@ -25,7 +25,7 @@ Whether you're a **beginner** taking your first steps with Python, an **intermed
 ## 📂 Repository Structure
 
 ```
-PyVault/
+Python-Developer-Projects/
 │
 ├── core-python/             # Standalone scripts & concept demos
 │   └── ...
@@ -48,7 +48,7 @@ PyVault/
 **1. Clone the repository**
 ```bash
 git clone https://github.com/your-username/PyVault.git
-cd PyVault
+cd Python-Developer-Projects
 ```
 
 **2. Navigate to any project folder**
@@ -88,12 +88,6 @@ python <script_name>.py
 ## 🤝 Contributing
 
 Contributions, suggestions, and improvements are welcome!
-
-1. Fork the repository
-2. Create a new branch: `git checkout -b feature/your-feature-name`
-3. Commit your changes: `git commit -m "Add: your feature description"`
-4. Push to the branch: `git push origin feature/your-feature-name`
-5. Open a Pull Request
 
 Please keep contributions well-commented, self-contained, and consistent with the existing structure.
 
